@@ -132,9 +132,8 @@ SOFTWARE.
 ✨ Experience AGRO like never before! ✨
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="AGRO Beautiful Demo" width="85%" style="border-radius:25px; box-shadow:0 6px 30px rgba(0,0,0,0.4);"/>
-  </a>
+  <img width="1919" height="864" alt="Screenshot 2025-09-10 113604" src="https://github.com/user-attachments/assets/1f2170cc-d0fd-4c73-b0df-2477f020983f" />
+
 </div>
 
 🌾 Click the video above to enjoy the **cinematic showcase** 🎬🌟
