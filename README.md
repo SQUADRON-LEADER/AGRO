@@ -57,6 +57,7 @@ This repository delivers a **beautifully designed single-page frontend** built w
 
 🌾 **Beautiful UI Sneak Peek** 🌾
 
+<img width="1919" height="864" alt="Screenshot 2025-09-10 113604" src="https://github.com/user-attachments/assets/1f2170cc-d0fd-4c73-b0df-2477f020983f" />
 
 
 </div>
