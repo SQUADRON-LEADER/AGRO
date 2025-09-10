@@ -65,6 +65,8 @@ This repository delivers a **beautifully designed single-page frontend** built w
 
 <img width="1916" height="856" alt="Screenshot 2025-09-10 113626" src="https://github.com/user-attachments/assets/31d2b99c-45b0-47a8-b126-ec975e4e73b1" />
 
+<img width="1901" height="858" alt="Screenshot 2025-09-10 113632" src="https://github.com/user-attachments/assets/212133e6-d985-4822-a4cc-5740518181b8" />
+
 </div>
 
 ---
