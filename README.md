@@ -57,7 +57,7 @@ This repository delivers a **beautifully designed single-page frontend** built w
 
 🌾 **Beautiful UI Sneak Peek** 🌾
 
-![AGRO Screenshot](https://via.placeholder.com/1000x500.png?text=AGRO+Website+Preview)
+
 
 </div>
 
